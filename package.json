@@ -1,0 +1,22 @@
+{
+  "name": "@afterschooldevelopment/use-expo-updates",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.4.0",
+    "eslint": "^6",
+    "eslint-config-airbnb-typescript": "^8.0.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "expo-updates": "^0.3.5",
+    "react-native": "^0.63.3",
+    "typescript": "^3"
+  }
+}
