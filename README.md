@@ -11,7 +11,7 @@ This hook sets a listener on `AppState` to check for updates every time a user o
 In your expo project, run:
 
 ```
-yarn add useExpoUpdates
+yarn add use-expo-updates
 ```
 
 Then, in your root file, add the hook at the top of your component:
