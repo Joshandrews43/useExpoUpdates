@@ -17,7 +17,7 @@ yarn add useExpoUpdates
 Then, in your root file, add the hook at the top of your component:
 
 ```
-import useExpoUpdates from 'useExpoUpdates';
+import useExpoUpdates from 'use-expo-updates';
 
 const App = () => {
   useExpoUpdates();
