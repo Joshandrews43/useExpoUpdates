@@ -1,7 +1,10 @@
 {
   "name": "use-expo-updates",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Joshandrews43/useExpoUpdates.git"
