@@ -1,7 +1,11 @@
 {
   "name": "use-expo-updates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joshandrews43/useExpoUpdates.git"
+  },
   "main": "index.js",
   "keywords": [],
   "license": "MIT",
